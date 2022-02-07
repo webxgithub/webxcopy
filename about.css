@@ -1,0 +1,30 @@
+*{
+	box-sizing:border-box;
+	margin:0px;
+	padding:0px;
+}
+
+/*Navbar Code Start Here*/
+
+
+
+
+/*What we do Code Start Here*/
+
+.span-one{
+	font-family:Roboto,Helvetica,Arial,Lucida,sans-serif;
+	font-size:40px;
+	color:#041240;
+	font-weight:600;	
+}
+
+.span-two{
+	font-family:Roboto,Helvetica,Arial,Lucida,sans-serif;
+	font-size:40px;
+	color:#abe00d;
+	font-weight:600;
+}
+
+.whatwedo{
+	margin-top:500px;
+}
